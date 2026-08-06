@@ -1,2 +1,2 @@
 # blockchain-identity-management-systems
-A blockchain-based identity management systems for secure, privacy-preserving digital identity verification using decentralised technology 
+Research and prototype implementation of a Blockchain-Based Identity Management System enhancing privacy, security, usability, and post-quantum resilience in digital identity verification. 
