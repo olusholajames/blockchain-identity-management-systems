@@ -1,7 +1,7 @@
 # blockchain-identity-management-system
 # Project Overview
 This project focuses on the design and prototype implementation of a Blockchain-Based Identity Management System aimed at enhancing privacy, security, and usability in digital identity verification.
-The research explores how blockchain technology, decentralised identity(DID), verifiable credentials(VC), and cryptographic techniques can support secure and user-controlled digital identitymanagement.   
+The research explores how blockchain technology, decentralised identity(DID), verifiable credentials(VC), and cryptographic techniques can support secure and user-controlled digital identity management.   
 ## Research Topic
 
 *Blockchain-Based Identity Management Systems: Enhancing Privacy, Security and Usability with Consideration of Post-Quantum Computing in Digital Identity Verification*
